@@ -59,11 +59,3 @@ data/
 *.zip
 *.pdf
 
-# Keep SUBMISSION_READY.md but exclude other working files
-*_SUMMARY.md
-*_FIXES.md
-*_FIX_*.md
-*_SETUP.md
-CODE_REVIEW*.md
-!SUBMISSION_READY.md
-
