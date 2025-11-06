@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: PEP8](https://img.shields.io/badge/code%20style-PEP8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
-A complete RGB-D SLAM system that produces camera trajectories, 3D Gaussian splat maps, 2D floorplans, and coverage analysis from indoor sequences.
+A RGB-D SLAM system that produces camera trajectories, 3D Gaussian splat maps, 2D floorplans, and coverage analysis from indoor sequences.
 
 ## Features
 
