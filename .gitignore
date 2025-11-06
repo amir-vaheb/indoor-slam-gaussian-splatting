@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/
+!data/.gitkeep
+
+# Results - Keep example outputs for demonstration
+# Uncomment below to exclude results from git
+# results/*.png
+# results/*.txt
+# results/*.json
+# results/*.geojson
+
+# Temporary files
+*.log
+*.tmp
+.cache/
+
+# Project specific
+*.tgz
+*.tar.gz
+*.zip
+*.pdf
+
+# Keep SUBMISSION_READY.md but exclude other working files
+*_SUMMARY.md
+*_FIXES.md
+*_FIX_*.md
+*_SETUP.md
+CODE_REVIEW*.md
+!SUBMISSION_READY.md
+

@@ -1,0 +1,18 @@
+{
+  "trajectory_length": 16.031199723655476,
+  "num_frames": 1362,
+  "ate_rmse": 3.035802628572513,
+  "floor_area_m2": 171.77750000000003,
+  "perimeter_m": 42.36686966783188,
+  "coverage_completeness": 0.13553518672827816,
+  "num_splats": 23448,
+  "num_walls": 17,
+  "completeness": 0.13553518672827816,
+  "min_observations": 0,
+  "max_observations": 3044,
+  "mean_observations": 24.094492841451405,
+  "median_observations": 0.0,
+  "total_cells": 66005,
+  "observed_cells": 9382,
+  "complete_cells": 8946
+}
